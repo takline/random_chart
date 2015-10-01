@@ -1,0 +1,5 @@
+tr.row_selected td{background-color:LightGray  !important;}
+
+tr.row_hovered td{background-color:WhiteSmoke !important;}
+
+tr.submitted td{background-color:rgb(223, 240, 216) !important;}
